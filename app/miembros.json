@@ -1,0 +1,5 @@
+[
+{"no":"1", "nombre":"carmen", "fidelidad": "3", "fechaUnion":"3/5/10", "tipoMiembro":"free"},
+{"no":"2", "nombre":"juan", "fidelidad": "5", "fechaUnion":"3/5/10", "tipoMiembro":"premium"},
+{"no":"3", "nombre":"pedro", "fidelidad": "9", "fechaUnion":"3/5/10", "tipoMiembro":"free"}
+]
